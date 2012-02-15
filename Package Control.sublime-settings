@@ -1,10 +1,11 @@
 {
-	"auto_upgrade_last_run": 1325872277,
+	"auto_upgrade_last_run": 1329267723,
 	"installed_packages":
 	[
 		"IndentGuides",
 		"Package Control",
 		"sublime-jslint",
+		"SublimeCodeIntel",
 		"ZenCoding"
 	]
 }

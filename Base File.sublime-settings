@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
-	"font_size": 14,
+	"color_scheme": "Packages/nodejs.tmtheme",
+	"font_size": 14.0,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true
 }
